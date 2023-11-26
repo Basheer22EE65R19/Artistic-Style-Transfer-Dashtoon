@@ -13,7 +13,7 @@ Neural style transfer is an optimization technique used to take two images — a
 - Python
 - PyTorch
 - torchvision
-- Other dependencies (specified in requirements.txt)
+- Numpy
 
 ### Installation
 
