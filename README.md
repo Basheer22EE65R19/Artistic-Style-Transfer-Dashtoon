@@ -27,7 +27,10 @@ Neural style transfer is an optimization technique used to take two images — a
 ### Dataset: Art by AI - Neural Style Transfer
 
 This dataset contains images created using neural style transfer techniques. [Explore the dataset](https://www.kaggle.com/datasets/vbookshelf/art-by-ai-neural-style-transfer) for more details.
-
+## Three different styles
+![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Styles/cuphead.jpg)
+![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Styles/mosaic.jpg)
+![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Styles/starry_night.jpg)
 ## Test Input
 ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_image/zurich.jpeg)
 ## Test Outputs
