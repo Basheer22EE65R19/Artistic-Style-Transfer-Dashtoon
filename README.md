@@ -16,25 +16,32 @@ Neural style transfer is an optimization technique used to take two images — a
 - Numpy
 - Matplotlib
 
-### Clone the repository
-
-   ```bash
-   git clone https://github.com/yourusername/neural-style-transfer.git
-   cd neural-style-transfer
-   
 ### Dataset: Art by AI - Neural Style Transfer
 
 This dataset contains images created using neural style transfer techniques. [Explore the dataset](https://www.kaggle.com/datasets/vbookshelf/art-by-ai-neural-style-transfer) for more details.
-## Three different styles
-![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Styles/cuphead.jpg)
-![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Styles/mosaic.jpg)
-![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Styles/starry_night.jpg)
-## Test Input
+
+### Three different styles
+
+1. Cuphead Style
+   ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Styles/cuphead.jpg)
+
+2. Mosaic Style
+   ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Styles/mosaic.jpg)
+
+3. Starry Night Style
+   ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Styles/starry_night.jpg)
+
+### Test Input - Zurich
+
 ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_image/zurich.jpeg)
-## Test Outputs
-![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_output/cuphead-zurich.jpeg)
-![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_output/mosaic-zurich.jpeg)
-![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_output/stylized-zurich.jpeg)
 
+### Test Outputs
 
-Feel free to customize it further based on your specific implementation details and preferences.
+1. Cuphead Style - Zurich
+   ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_output/cuphead-zurich.jpeg)
+
+2. Mosaic Style - Zurich
+   ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_output/mosaic-zurich.jpeg)
+
+3. Stylized - Zurich
+   ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_output/stylized-zurich.jpeg)
