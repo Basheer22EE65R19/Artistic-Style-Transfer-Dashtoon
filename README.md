@@ -8,7 +8,7 @@ Neural style transfer is an optimization technique used to take two images — a
 
 ## Getting Started
 
-### Prerequisites
+### Libraries
 
 - Python
 - PyTorch
@@ -16,9 +16,7 @@ Neural style transfer is an optimization technique used to take two images — a
 - Numpy
 - Matplotlib
 
-### Installation
-
-1. Clone the repository:
+### Clone the repository
 
    ```bash
    git clone https://github.com/yourusername/neural-style-transfer.git
