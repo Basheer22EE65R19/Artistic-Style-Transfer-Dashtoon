@@ -34,6 +34,8 @@ This dataset contains images created using neural style transfer techniques. [Ex
 ## Test Input
 ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_image/zurich.jpeg)
 ## Test Outputs
+![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_output/cuphead-zurich.jpeg)
+![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_output/mosaic-zurich.jpeg)
 ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_output/stylized-zurich.jpeg)
 
 
