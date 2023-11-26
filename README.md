@@ -22,13 +22,13 @@ This dataset contains images created using neural style transfer techniques. [Ex
 
 ### Three different styles
 
-1. Cuphead Style
+#### 1. Cuphead Style
    ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Styles/cuphead.jpg)
 
-2. Mosaic Style
+#### 2. Mosaic Style
    ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Styles/mosaic.jpg)
 
-3. Starry Night Style
+#### 3. Starry Night Style
    ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Styles/starry_night.jpg)
 
 ### Test Input - Zurich
@@ -37,11 +37,11 @@ This dataset contains images created using neural style transfer techniques. [Ex
 
 ### Test Outputs
 
-1. Cuphead Style - Zurich
+#### 1. Cuphead Style - Zurich
    ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_output/cuphead-zurich.jpeg)
 
-2. Mosaic Style - Zurich
+#### 2. Mosaic Style - Zurich
    ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_output/mosaic-zurich.jpeg)
 
-3. Stylized - Zurich
+#### 3. Stylized - Zurich
    ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_output/stylized-zurich.jpeg)
