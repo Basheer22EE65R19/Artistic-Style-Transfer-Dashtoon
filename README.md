@@ -55,7 +55,7 @@ This dataset contains images created using neural style transfer techniques. [Ex
 ### Training styled images
    ![Image 1](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Train_outputs/Cuphead/2000.jpg) | ![Image 2](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Train_outputs/Mosaic_outputs/2000.jpg) | ![Image 1](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Train_outputs/Starry_Night_outputs/2000.jpg)
    :-------------------------:|:-------------------------:|:-------------------------:
-   Train Images for Cuphead style | Train Images for Mosaic style | Train images for Starry Night
+   Trained and styled Images for Cuphead style | Trained and styled Images for Mosaic style | Trained and styled images for Starry Night
 
 
 ### Three different styles
