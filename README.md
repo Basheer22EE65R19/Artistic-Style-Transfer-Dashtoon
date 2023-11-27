@@ -6,7 +6,25 @@ This repository contains code for neural style transfer using PyTorch.
 
 Neural style transfer is an optimization technique used to take two images — a content image and a style reference image — and blend them together in such a way that the output image looks like the content image, but "painted" in the style of the style reference image.
 
-## Getting Started
+## Project Structure
+
+The project is organized into three main parts:
+
+1. **Training :**
+   - The script takes command-line arguments for dataset path, style image, training parameters, and more.
+   - It uses a custom implementation of the VGG16 model and the TransformerNet for style transfer.
+   - Training involves optimizing the model's parameters using content and style losses.
+   - Images are loaded from the specified dataset path, and style features are extracted from the style image.
+   - The training loop saves checkpoints and sample images for evaluation at specified intervals.
+
+2. **Style Image and Results Display :**
+   - This Jupyter notebook displays the style image and the results of the style transfer.
+   - It uses the matplotlib library to visualize the style image and the stylized output after training.
+
+3. **Testing :**
+   - This script performs style transfer on a user-specified image using a pre-trained model checkpoint.
+   - The user can provide the path to the content image and the checkpoint model for stylization.
+   - The stylized image is saved in the `images/outputs` directory.
 
 ## Install Dependencies:
 
