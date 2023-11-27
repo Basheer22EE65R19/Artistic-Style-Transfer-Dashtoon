@@ -52,6 +52,12 @@ The project is organized into three main parts:
 
 This dataset contains images created using neural style transfer techniques. [Explore the dataset](https://www.kaggle.com/datasets/vbookshelf/art-by-ai-neural-style-transfer) for more details.
 
+### Training styled images
+   ![Image 1](url_to_image_1) | ![Image 2](url_to_image_2)
+   :-------------------------:|:-------------------------:
+   Caption for Image 1        | Caption for Image 2
+
+
 ### Three different styles
 
 #### 1. Cuphead Style
