@@ -20,6 +20,8 @@ Neural style transfer is an optimization technique used to take two images — a
    ```bash
    git clone https://github.com/yourusername/neural-style-transfer.git
    cd neural-style-transfer
+   
+2. Change the path with your dataset in dashtoon.ipynb file and replace the style image datapath of your style.
 
 ### Libraries
 
