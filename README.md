@@ -24,7 +24,7 @@ The project is organized into three main parts:
 3. **Testing :**
    - This script performs style transfer on a user-specified image using a pre-trained model checkpoint.
    - The user can provide the path to the content image and the checkpoint model for stylization.
-   - The stylized image is saved in the `images/outputs` directory.
+   - The stylized image is saved in the `images/Test_outputs` directory.
 
 ## Install Dependencies:
 
