@@ -12,8 +12,13 @@ Neural style transfer is an optimization technique used to take two images — a
 
 - Ensure you have Python 3.x installed.
 - Install the required Python packages:
-- pip install -r requirements.txt
+   pip install -r requirements.txt
 
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/neural-style-transfer.git
+   cd neural-style-transfer
 
 ### Libraries
 
