@@ -12,7 +12,7 @@ The project is organized into three main parts:
 
 1. **Training :**
    - The script takes command-line arguments for dataset path, style image, training parameters, and more.
-   - It uses a custom implementation of the VGG16 model and the TransformerNet for style transfer.
+   - It uses a custom implementation of the VGG16 model and the TransformerNet for style transfer. The model is in `models.py` file
    - Training involves optimizing the model's parameters using content and style losses.
    - Images are loaded from the specified dataset path, and style features are extracted from the style image.
    - The training loop saves checkpoints and sample images for evaluation at specified intervals.
