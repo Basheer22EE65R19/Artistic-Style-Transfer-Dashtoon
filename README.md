@@ -8,6 +8,13 @@ Neural style transfer is an optimization technique used to take two images — a
 
 ## Getting Started
 
+## Install Dependencies:
+
+- Ensure you have Python 3.x installed.
+- Install the required Python packages:
+- pip install -r requirements.txt
+
+
 ### Libraries
 
 - PyTorch
