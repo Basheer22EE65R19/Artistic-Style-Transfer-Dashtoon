@@ -53,7 +53,7 @@ The project is organized into three main parts:
 This dataset contains images created using neural style transfer techniques. [Explore the dataset](https://www.kaggle.com/datasets/vbookshelf/art-by-ai-neural-style-transfer) for more details.
 
 ### Training styled images
-   ![Image 1](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Train_outputs/Cuphead/2000.jpg) | ![Image 2](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Train_outputs/Mosaic_outputs/2000.jpg) | ![Image 1](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Train_outputs/Starry_Night_outputs/2000.jpg)
+   ![Image 1](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Train_outputs/Cuphead/2000.jpg) | ![Image 2](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Train_outputs/Mossaic_outputs/2000.jpg) | ![Image 3](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Train_outputs/Starry_Night_outputs/2000.jpg)
    :-------------------------:|:-------------------------:|:-------------------------:
    Trained and styled Images for Cuphead style | Trained and styled Images for Mosaic style | Trained and styled images for Starry Night
 
