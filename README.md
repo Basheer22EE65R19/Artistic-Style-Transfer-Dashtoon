@@ -40,6 +40,7 @@ The project is organized into three main parts:
    cd neural-style-transfer
    
 2. Change the path with your dataset in Dashtoon.ipynb file and replace the style image datapath of your style.
+3. If possible, we can run this on video also by giving inputs frame-by-frame.
 
 ### Libraries
 
